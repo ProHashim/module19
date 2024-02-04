@@ -1,0 +1,20 @@
+Install server and client dependencies:
+npm run install
+
+Run the client and server concurrently in development mode:
+npm run start:dev
+
+Navigate to the client directory:
+cd client
+
+Install client dependencies:
+npm install
+
+Run the client in development mode with live reloading:
+npm run dev
+
+To build the client for production:
+npm run build
+
+To continuously watch for changes in the client during development:
+npm start
